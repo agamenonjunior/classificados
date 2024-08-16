@@ -1,9 +1,9 @@
 <?php
 session_start();
-define ($dbname,'classificados');
-define ($user,'root');
-define ($pass,'');
-define ($host,'localhost');
+$dbname ='classificados';
+$user ='root';
+$pass ='';
+$host ='localhost';
 try {
     //code...
     $pdo = new PDO("mysql:dbname =$dbname;host=$host",$user,$pass);
