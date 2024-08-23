@@ -16,5 +16,9 @@ class User {
         
     }
 
+    public function Deletar($id){
+        
+    }
+
     
 }
