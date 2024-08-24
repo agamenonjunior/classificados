@@ -20,5 +20,9 @@ class User {
         
     }
 
+    public function Listar(){
+
+    }
+
     
 }
