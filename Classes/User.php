@@ -23,6 +23,10 @@ class User {
 
     }
 
+    public function ListarID($id){
+
+    }
+
     
 
     /**
